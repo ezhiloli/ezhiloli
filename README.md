@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ezhiloli
 - 👀 I’m interested in  Web Development
-- 🌱 I’m currently working Accenture 
+- 🌱 I’m currently working in Accenture ( AEM Developer )
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Instagram : @ self__designer
 
